@@ -15,16 +15,18 @@
     "wisdom", "thunder", "sunrise", "sunset"
   ],
   "medium": [
-    "Liam", "Noah", "Emma", "Olivia", "Aiden", "Sofia", "Lucas", "Mia", "Ethan", "Aria",
-    "Mason", "Luna", "Logan", "Chloe", "James", "Layla", "Elijah", "Zoe", "Oliver", "Nora",
-    "Jacob", "Riley", "Henry", "Leah", "Alexander", "Stella", "Daniel", "Hazel", "Owen", "Violet",
-    "Mateo", "Aurora", "Sebastián", "Savannah", "Jack", "Audrey", "Levi", "Bella", "Ryan", "Claire",
-    "Caleb", "Skylar", "Isaac", "Paisley", "Nathan", "Ellie", "Thomas", "Samantha", "Hunter", "Penelope",
-    "Yusuf", "Amara", "Hiroshi", "Mei", "Tariq", "Fatima", "Dimitri", "Anya", "Kofi", "Adaeze",
-    "Ravi", "Priya", "Soren", "Ingrid", "Matteo", "Giulia", "Andrei", "Mirela", "Javier", "Valentina",
-    "Kenji", "Hana", "Tobias", "Freya", "Emeka", "Chisom", "Aleksei", "Natasha", "Hamid", "Yasmin",
-    "Brennan", "Siobhan", "Ciarán", "Aoife", "Mikael", "Astrid", "Leandro", "Camila", "Thiago", "Isabela",
-    "Kwame", "Abena", "Zaid", "Leilani", "Arjun", "Kavya", "Nico", "Elena", "Felix", "Clara"
+    "desert", "dessert", "affect", "effect", "accept", "except", "loose", "lose",
+    "moral", "morale", "breath", "breathe", "cloths", "clothes", "dairy", "diary",
+    "elicit", "illicit", "eminent", "imminent", "flair", "flare", "gorilla", "guerrilla",
+    "hoard", "horde", "humane", "human", "idle idle", "idol", "imply", "infer",
+    "later", "latter", "lightning", "lightening", "loath", "loathe", "marital", "martial",
+    "maybe", "may be", "naval", "navel", "palate", "palette", "peace", "piece",
+    "pedal", "peddle", "plain", "plane", "pore", "pour", "pray", "prey",
+    "principal", "principle", "profit", "prophet", "quiet", "quite", "raise", "raze",
+    "reign", "rein", "rain", "review", "revue", "right", "write", "rite",
+    "role", "roll", "scene", "seen", "shear", "sheer", "sight", "site",
+    "sole", "soul", "stair", "stare", "stationary", "stationery", "steal", "steel",
+    "suite", "sweet", "tail", "tale", "their", "there", "threw", "through"
   ],
   "hard": [
     "1024", "1457", "1983", "2048", "2176", "2305", "2468", "2591", "2714", "2840",

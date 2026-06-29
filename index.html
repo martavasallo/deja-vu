@@ -37,11 +37,23 @@
 
 <!-- Results Screen -->
 <div id="screen-results" class="hidden" role="main" aria-label="Results screen">
-  <h2 id="result-outcome" aria-live="polite"></h2>
-  <ul id="word-list" aria-label="Words shown during the round"></ul>
-  <button id="play-again-btn">Play Again</button>
+  <div id="results-layout">
+
+    <div id="results-primary">
+      <span class="section-label">Result</span>
+      <h2 id="result-outcome" aria-live="polite"></h2>
+      <p id="result-subtitle"></p>
+    </div>
+
+    <button id="play-again-btn">Play Again</button>
+    
+    <div id="results-words">
+      <ul id="word-list" aria-label="Words shown during the round"></ul>
+    </div>
+
+  </div>
 </div>
 
-  <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
