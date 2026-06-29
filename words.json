@@ -1,1 +1,41 @@
-{}
+{
+  "easy": [
+    "apple", "house", "table", "chair", "water", "river", "beach", "cloud",
+    "storm", "happy", "smile", "laugh", "bread", "cheese", "butter", "coffee",
+    "garden", "flower", "forest", "castle", "bridge", "school", "friend", "family",
+    "window", "yellow", "orange", "purple", "silver", "golden", "summer", "winter",
+    "autumn", "spring", "rabbit", "turtle", "kitten", "puppy", "monkey", "zebra",
+    "guitar", "pencil", "marker", "notebook", "letter", "parcel", "rocket", "planet",
+    "galaxy", "ocean", "island", "mountain", "valley", "desert", "jungle", "candle",
+    "blanket", "pillow", "wallet", "ticket", "bottle", "camera", "engine", "circle",
+    "square", "triangle", "basket", "market", "doctor", "farmer", "baker", "driver",
+    "artist", "writer", "singer", "dancer", "painter", "reader", "button", "pocket",
+    "travel", "holiday", "picnic", "museum", "theatre", "station", "airport", "harbour",
+    "village", "country", "nation", "energy", "future", "moment", "secret", "dream",
+    "wisdom", "thunder", "sunrise", "sunset"
+  ],
+  "medium": [
+    "Liam", "Noah", "Emma", "Olivia", "Aiden", "Sofia", "Lucas", "Mia", "Ethan", "Aria",
+    "Mason", "Luna", "Logan", "Chloe", "James", "Layla", "Elijah", "Zoe", "Oliver", "Nora",
+    "Jacob", "Riley", "Henry", "Leah", "Alexander", "Stella", "Daniel", "Hazel", "Owen", "Violet",
+    "Mateo", "Aurora", "Sebastián", "Savannah", "Jack", "Audrey", "Levi", "Bella", "Ryan", "Claire",
+    "Caleb", "Skylar", "Isaac", "Paisley", "Nathan", "Ellie", "Thomas", "Samantha", "Hunter", "Penelope",
+    "Yusuf", "Amara", "Hiroshi", "Mei", "Tariq", "Fatima", "Dimitri", "Anya", "Kofi", "Adaeze",
+    "Ravi", "Priya", "Soren", "Ingrid", "Matteo", "Giulia", "Andrei", "Mirela", "Javier", "Valentina",
+    "Kenji", "Hana", "Tobias", "Freya", "Emeka", "Chisom", "Aleksei", "Natasha", "Hamid", "Yasmin",
+    "Brennan", "Siobhan", "Ciarán", "Aoife", "Mikael", "Astrid", "Leandro", "Camila", "Thiago", "Isabela",
+    "Kwame", "Abena", "Zaid", "Leilani", "Arjun", "Kavya", "Nico", "Elena", "Felix", "Clara"
+  ],
+  "hard": [
+    "1024", "1457", "1983", "2048", "2176", "2305", "2468", "2591", "2714", "2840",
+    "3017", "3159", "3284", "3412", "3567", "3690", "3825", "3951", "4078", "4196",
+    "4321", "4455", "4589", "4703", "4836", "4962", "5087", "5214", "5348", "5471",
+    "5609", "5732", "5864", "5998", "6123", "6257", "6381", "6419", "6542", "6675",
+    "6808", "6934", "7051", "7186", "7310", "7443", "7579", "7602", "7735", "7861",
+    "7994", "8026", "8153", "8287", "8411", "8546", "8670", "8795", "8824", "8958",
+    "9083", "9117", "9245", "9378", "9406", "9531", "9664", "9790", "9827", "9954",
+    "1105", "1238", "1362", "1499", "1624", "1758", "1881", "1916", "2143", "2279",
+    "2404", "2537", "2661", "2798", "2925", "3058", "3182", "3316", "3449", "3574",
+    "3708", "3833", "3967", "4092", "4228", "4351", "4486", "4610", "4745", "4879"
+  ]
+}

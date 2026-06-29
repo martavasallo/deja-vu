@@ -1,1 +1,40 @@
-/* Déjà Vu */
+/* ── CSS Variables ── */
+:root {
+  --color-background: #F8F8F6;
+  --color-text-primary: #2C2C2A;
+  --color-text-secondary: #888780;
+  --color-text-hint: #B4B2A9;
+  --color-accent: #D85A30;
+  --color-accent-subtle: #FAECE7;
+  --color-border: #D3D1C7;
+}
+
+[data-theme="dark"] {
+  --color-background: #1A1A18;
+  --color-text-primary: #F1EFE8;
+  --color-text-secondary: #B4B2A9;
+  --color-text-hint: #5F5E5A;
+  --color-accent: #F0997B;
+  --color-accent-subtle: #993C1D;
+  --color-border: #444441;
+}
+
+/* ── Reset ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Base ── */
+body {
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
+
+/* ── Screen switching ── */
+.hidden {
+  display: none;
+}

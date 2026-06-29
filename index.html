@@ -1,1 +1,47 @@
-<!-- Déjà Vu -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Déjà Vu</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<!-- Home Screen -->
+<div id="screen-home" role="main" aria-label="Home screen">
+  <h1>Déjà Vu</h1>
+  <p id="instruction">Press spacebar when you see a repeated word.</p>
+  <div id="difficulty-selector" role="group" aria-labelledby="difficulty-label">
+    <span id="difficulty-label">Select difficulty</span>
+    <button class="difficulty-btn active" data-difficulty="easy" aria-pressed="true">Easy</button>
+    <button class="difficulty-btn" data-difficulty="medium" aria-pressed="false">Medium</button>
+    <button class="difficulty-btn" data-difficulty="hard" aria-pressed="false">Hard</button>
+  </div>
+  <button id="play-btn" aria-describedby="instruction">Play</button>
+</div>
+
+<!-- Countdown Screen -->
+<div id="screen-countdown" class="hidden" role="status" aria-live="polite" aria-label="Countdown before game starts">
+  <span id="countdown-number" aria-atomic="true">3</span>
+</div>
+
+<!-- Game Screen -->
+<div id="screen-game" class="hidden" role="main" aria-label="Game screen">
+  <span id="word-display" role="status" aria-live="polite" aria-atomic="true"></span>
+  <div id="timer-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" aria-label="Time remaining"></div>
+</div>
+
+<!-- Results Screen -->
+<div id="screen-results" class="hidden" role="main" aria-label="Results screen">
+  <h2 id="result-outcome" aria-live="polite"></h2>
+  <ul id="word-list" aria-label="Words shown during the round"></ul>
+  <button id="play-again-btn">Play Again</button>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
